@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\common\\orm\\iorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|solutionrelative:common\\orm\\iorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\common\\orm\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|solutionrelative:common\\orm\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\common\\models\\idatabaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|solutionrelative:common\\models\\idatabaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\common\\models\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|solutionrelative:common\\models\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\common\\orm\\idbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|solutionrelative:common\\orm\\idbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\common\\orm\\orm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC29B3F-4F52-47DC-9F09-FF0637A4FC82}|Common\\Common.csproj|solutionrelative:common\\orm\\orm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|solutionrelative:management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|solutionrelative:management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\management\\repositories\\services\\userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|solutionrelative:management\\repositories\\services\\userdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\management\\repositories\\interface\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|solutionrelative:management\\repositories\\interface\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\management\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|solutionrelative:management\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|c:\\users\\mishraji\\source\\repos\\usersolution\\management\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E08D874-4D7F-467C-BAC7-F5231F60CB6D}|Management\\Management.csproj|solutionrelative:management\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\appsettings.json",
+              "RelativeToolTip": "Management\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T15:32:06.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IORM.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\ORM\\IORM.cs",
+              "RelativeDocumentMoniker": "Common\\ORM\\IORM.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\ORM\\IORM.cs",
+              "RelativeToolTip": "Common\\ORM\\IORM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:15:37.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ORM.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\ORM\\ORM.cs",
+              "RelativeDocumentMoniker": "Common\\ORM\\ORM.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\ORM\\ORM.cs",
+              "RelativeToolTip": "Common\\ORM\\ORM.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:16:07.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Program.cs",
+              "RelativeDocumentMoniker": "Management\\Program.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Program.cs",
+              "RelativeToolTip": "Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T19:54:51.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDBConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\ORM\\IDBConfig.cs",
+              "RelativeDocumentMoniker": "Common\\ORM\\IDBConfig.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\ORM\\IDBConfig.cs",
+              "RelativeToolTip": "Common\\ORM\\IDBConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:11:25.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\ORM\\DBConfig.cs",
+              "RelativeDocumentMoniker": "Common\\ORM\\DBConfig.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\ORM\\DBConfig.cs",
+              "RelativeToolTip": "Common\\ORM\\DBConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:07:22.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\Models\\DataBaseConfig.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\DataBaseConfig.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\Models\\DataBaseConfig.cs",
+              "RelativeToolTip": "Common\\Models\\DataBaseConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:56:15.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataBaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\Models\\IDataBaseConfig.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\IDataBaseConfig.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Common\\Models\\IDataBaseConfig.cs",
+              "RelativeToolTip": "Common\\Models\\IDataBaseConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:56:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDataService.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Repositories\\Services\\UserDataService.cs",
+              "RelativeDocumentMoniker": "Management\\Repositories\\Services\\UserDataService.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Repositories\\Services\\UserDataService.cs",
+              "RelativeToolTip": "Management\\Repositories\\Services\\UserDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:47:35.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Repositories\\Interface\\IUserData.cs",
+              "RelativeDocumentMoniker": "Management\\Repositories\\Interface\\IUserData.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Repositories\\Interface\\IUserData.cs",
+              "RelativeToolTip": "Management\\Repositories\\Interface\\IUserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:45:05.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "Management\\Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Models\\UserData.cs",
+              "RelativeToolTip": "Management\\Models\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:38:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDataController.cs",
+              "DocumentMoniker": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Controllers\\UserDataController.cs",
+              "RelativeDocumentMoniker": "Management\\Controllers\\UserDataController.cs",
+              "ToolTip": "C:\\Users\\MISHRAJI\\source\\repos\\UserSolution\\Management\\Controllers\\UserDataController.cs",
+              "RelativeToolTip": "Management\\Controllers\\UserDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:59:31.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
